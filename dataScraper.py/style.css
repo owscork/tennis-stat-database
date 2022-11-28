@@ -1,0 +1,41 @@
+* {
+    font-family: 'Dongle', sans-serif;
+    font-size: x-large;
+}
+
+body {
+    text-align: center;
+    background-color: lightcyan;
+}
+
+.header {
+    background-color: lightcoral;
+    padding: 10px;
+    border: 5px, solid, black;
+}
+
+h1 {
+    font-size: 50px;
+    font-family: 'Dongle', sans-serif;
+}
+
+h3 {
+    font-size: 35px;
+}
+
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+th {
+    cursor: pointer;
+}
+
+table {
+    margin-top: 20px;
+    width: 100%;
+}
+
+.q3-header {
+    font-size: 40px;
+}
